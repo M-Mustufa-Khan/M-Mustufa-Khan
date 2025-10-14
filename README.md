@@ -36,8 +36,7 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-*(Add your LinkedIn link above)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/mustufa-khan-87346b333/))  
 
 ---
 
