@@ -19,7 +19,7 @@
 | 📝 **To-Do App** | [View App](https://todo-app-26-9-2025.netlify.app/) |
 | 💸 **Expense Tracker** | [View App](https://expense-tracker-application-27-09-25.netlify.app/) |
 | 🧮 **Calculator** | [View App](https://calculater-24-9-2025.netlify.app/) |
-| 🛍️ **E-Commerce Website (In Progress)** | Coming Soon... |
+| 🛍️ **Dripline-Fashion-Store (In Progress)** | Coming Soon... |
 
 ---
 
