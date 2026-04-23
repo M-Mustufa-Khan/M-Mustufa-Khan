@@ -11,7 +11,7 @@
 
 | Category | Skills |
 | --- | --- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+) ✅, Bootstrap, Responsive Design |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) , Bootstrap, Responsive Design |
 | **Currently Learning** | React.js 🔥, REST APIs, Node.js, App Development |
 | **E-Commerce** | Shopify Store Setup & Dev, Liquid Templating, Theme Customization, Product & Collection Management |
 | **Automation** | n8n Workflows 🆕, API Integrations, Webhook Automation, No-Code Pipelines |
@@ -22,9 +22,12 @@
 
 ## 🧰 Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,git,github,vscode,nodejs,netlify,shopify" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,git,github,vscode,nodejs" alt="Tech Stack" />
 
-**+ n8n &nbsp;|&nbsp; Shopify &nbsp;|&nbsp; Claude (Vibe Coding)**
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
