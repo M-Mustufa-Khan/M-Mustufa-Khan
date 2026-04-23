@@ -7,7 +7,7 @@
 ---
 
 ## 🧰 Tech Stack  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,vscode" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,vscode,n8n,shopify" alt="Tech Stack" />
 
 ---
 
