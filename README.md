@@ -74,9 +74,6 @@ I build modern web applications, AI-powered solutions, Shopify stores, and intel
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Mustufa-Khan\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mustufa-Khan\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=M-Mustufa-Khan\&theme=tokyonight\&hide_border=true)
 
