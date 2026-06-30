@@ -60,8 +60,6 @@ I build modern web applications, AI-powered solutions, Shopify stores, and intel
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
 | Project                    | Description                                                                                                | Live Demo                                                 |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | 🎉 Elegant Celebrations    | Full-stack Wedding Hall Booking System with hall listings, booking management, and modern responsive UI    | https://elegantcelebrations.vercel.app/                   |
