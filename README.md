@@ -60,24 +60,39 @@ I build modern web applications, AI-powered solutions, Shopify stores, and intel
 
 # 🚀 Featured Projects
 
-| Project                    | Description                              | Live Demo                                                 |
-| -------------------------- | ---------------------------------------- | --------------------------------------------------------- |
-| 🍯 Golden Honey            | Responsive e-commerce landing page       | https://golden-honey.netlify.app/                         |
-| 🛍️ Dripline Fashion Store | Modern fashion e-commerce website        | https://dripline-fashion-store-04-10-2025.netlify.app/    |
-| 🌦️ Weather App            | Real-time weather application using APIs | https://weather-app-23-10-2025.netlify.app/               |
-| 💸 Expense Tracker         | Personal finance management application  | https://expense-tracker-application-27-09-25.netlify.app/ |
-| 📝 To-Do App               | Task management application              | https://todo-app-26-9-2025.netlify.app/                   |
-| 🎮 Guess The Word          | Interactive JavaScript word game         | https://guess-the-word-game-16-10-2025.netlify.app/       |
-| 🧮 Calculator              | Responsive calculator application        | https://calculater-24-9-2025.netlify.app/                 |
+# 🚀 Featured Projects
+
+| Project                    | Description                                                                                                | Live Demo                                                 |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 🎉 Elegant Celebrations    | Full-stack Wedding Hall Booking System with hall listings, booking management, and modern responsive UI    | https://elegantcelebrations.vercel.app/                   |
+| 💼 Signature Nexus         | Premium software agency website showcasing AI solutions, web development, automation, and digital services | https://signature-nexus.vercel.app/                       |
+| 🍯 Golden Honey            | Responsive e-commerce landing page                                                                         | https://golden-honey.netlify.app/                         |
+| 🛍️ Dripline Fashion Store | Modern fashion e-commerce website                                                                          | https://dripline-fashion-store-04-10-2025.netlify.app/    |
+| 🌦️ Weather App            | Real-time weather application using APIs                                                                   | https://weather-app-23-10-2025.netlify.app/               |
+| 💸 Expense Tracker         | Personal finance management application                                                                    | https://expense-tracker-application-27-09-25.netlify.app/ |
+| 📝 To-Do App               | Task management application with local storage                                                             | https://todo-app-26-9-2025.netlify.app/                   |
+| 🎮 Guess The Word Game     | Interactive JavaScript word guessing game                                                                  | https://guess-the-word-game-16-10-2025.netlify.app/       |
+| 🧮 Calculator              | Responsive calculator built with JavaScript                                                                | https://calculater-24-9-2025.netlify.app/                 |
 
 ---
 
 # 🌍 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/mustufa-khan-87346b333/
-* 💻 GitHub: https://github.com/M-Mustufa-Khan
-* 🌐 Portfolio: *(Coming Soon)*
-* 🚀 Netlify: https://app.netlify.com/teams/m-mustufa-khan/sites
+* 🌐 **Portfolio:** https://muhmmad-mustufa-khan-0318.vercel.app/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mustufa-khan-87346b333/
+* 💻 **GitHub:** https://github.com/M-Mustufa-Khan
+* 🚀 **Netlify:** https://app.netlify.com/teams/m-mustufa-khan/sites
+
+---
+
+# ⭐ Featured Portfolio
+
+### 🌐 Personal Portfolio
+
+A premium developer portfolio showcasing my projects, technical expertise, experience, and AI-focused development journey.
+
+🔗 https://muhmmad-mustufa-khan-0318.vercel.app/
+
 
 ---
 
