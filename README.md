@@ -72,13 +72,6 @@ I build modern web applications, AI-powered solutions, Shopify stores, and intel
 
 ---
 
-# 📊 GitHub Analytics
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=M-Mustufa-Khan\&theme=tokyonight\&hide_border=true)
-
----
-
 # 🌍 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/mustufa-khan-87346b333/
